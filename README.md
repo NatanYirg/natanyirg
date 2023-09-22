@@ -1,1 +1,0 @@
-# natanyirg.github.io
