@@ -9,7 +9,7 @@
     <!-- swipper cdn  -->
     <link rel="stylesheet" href="https://unpkg.com/swiper@8/swiper-bundle.min.css"/>
     <link rel="stylesheet" href="css/style.css">
-    <title>Business</title>
+    <title>LegehareTrading</title>
 </head>
 <body>
     <!-- header  -->
@@ -367,8 +367,8 @@
         </div>
 
         
-
         <div class="row">
+            
             <div class="ifarm">
             
                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d679.6020101964751!2d38.79277483611041!3d9.026122793566746!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x164b85c476c6f5f5%3A0x608295b8e528312b!2sMinyahil%20Film%20Production!5e0!3m2!1sen!2set!4v1691742996655!5m2!1sen!2set" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
